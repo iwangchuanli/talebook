@@ -1,0 +1,1 @@
+scp -r ./* root@10.50.192.84:/fyyc/telabook/code
